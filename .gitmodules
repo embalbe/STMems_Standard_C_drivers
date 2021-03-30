@@ -4,3 +4,180 @@
 [submodule "_resources/STMems_Finite_State_Machine"]
 	path = _resources/STMems_Finite_State_Machine
 	url = https://github.com/STMicroelectronics/STMems_Finite_State_Machine
+[submodule "a3g4250d_STdC/driver"]
+	path = a3g4250d_STdC/driver
+	url = https://github.com/embalbe/a3g4250d-c
+[submodule "ais2dw12_STdC/driver"]
+	path = ais2dw12_STdC/driver
+	url = https://github.com/embalbe/ais2dw12-c
+[submodule "ais2ih_STdC/driver"]
+	path = ais2ih_STdC/driver
+	url = https://github.com/embalbe/ais2ih-c
+[submodule "ais328dq_STdC/driver"]
+	path = ais328dq_STdC/driver
+	url = https://github.com/embalbe/ais328dq-c
+[submodule "ais3624dq_STdC/driver"]
+	path = ais3624dq_STdC/driver
+	url = https://github.com/embalbe/ais3624dq-c
+[submodule "asm330lhh_STdC/driver"]
+	path = asm330lhh_STdC/driver
+	url = https://github.com/embalbe/asm330lhh-c
+[submodule "h3lis100dl_STdC/driver"]
+	path = h3lis100dl_STdC/driver
+	url = https://github.com/embalbe/h3lis100dl-c
+[submodule "h3lis331dl_STdC/driver"]
+	path = h3lis331dl_STdC/driver
+	url = https://github.com/embalbe/h3lis331dl-c
+[submodule "hts221_STdC/driver"]
+	path = hts221_STdC/driver
+	url = https://github.com/embalbe/hts221-c
+[submodule "i3g4250d_STdC/driver"]
+	path = i3g4250d_STdC/driver
+	url = https://github.com/embalbe/i3g4250d-c
+[submodule "iis2dh_STdC/driver"]
+	path = iis2dh_STdC/driver
+	url = https://github.com/embalbe/iis2dh-c
+[submodule "iis2dlpc_STdC/driver"]
+	path = iis2dlpc_STdC/driver
+	url = https://github.com/embalbe/iis2dlpc-c
+[submodule "iis2iclx_STdC/driver"]
+	path = iis2iclx_STdC/driver
+	url = https://github.com/embalbe/iis2iclx-c
+[submodule "iis2mdc_STdC/driver"]
+	path = iis2mdc_STdC/driver
+	url = https://github.com/embalbe/iis2mdc-c
+[submodule "iis328dq_STdC/driver"]
+	path = iis328dq_STdC/driver
+	url = https://github.com/embalbe/iis328dq-c
+[submodule "iis3dhhc_STdC/driver"]
+	path = iis3dhhc_STdC/driver
+	url = https://github.com/embalbe/iis3dhhc-c
+[submodule "iis3dwb_STdC/driver"]
+	path = iis3dwb_STdC/driver
+	url = https://github.com/embalbe/iis3dwb-c
+[submodule "ism303dac_STdC/driver"]
+	path = ism303dac_STdC/driver
+	url = https://github.com/embalbe/ism303dac-c
+[submodule "ism330dhcx_STdC/driver"]
+	path = ism330dhcx_STdC/driver
+	url = https://github.com/embalbe/ism330dhcx-c
+[submodule "ism330dlc_STdC/driver"]
+	path = ism330dlc_STdC/driver
+	url = https://github.com/embalbe/ism330dlc-c
+[submodule "l20g20is_STdC/driver"]
+	path = l20g20is_STdC/driver
+	url = https://github.com/embalbe/l20g20is-c
+[submodule "l3gd20h_STdC/driver"]
+	path = l3gd20h_STdC/driver
+	url = https://github.com/embalbe/l3gd20h-c
+[submodule "lis2de12_STdC/driver"]
+	path = lis2de12_STdC/driver
+	url = https://github.com/embalbe/lis2de12-c
+[submodule "lis2dh12_STdC/driver"]
+	path = lis2dh12_STdC/driver
+	url = https://github.com/embalbe/lis2dh12-c
+[submodule "lis2ds12_STdC/driver"]
+	path = lis2ds12_STdC/driver
+	url = https://github.com/embalbe/lis2ds12-c
+[submodule "lis2dtw12_STdC/driver"]
+	path = lis2dtw12_STdC/driver
+	url = https://github.com/embalbe/lis2dtw12-c
+[submodule "lis2dw12_STdC/driver"]
+	path = lis2dw12_STdC/driver
+	url = https://github.com/embalbe/lis2dw12-c
+[submodule "lis2hh12_STdC/driver"]
+	path = lis2hh12_STdC/driver
+	url = https://github.com/embalbe/lis2hh12-c
+[submodule "lis2mdl_STdC/driver"]
+	path = lis2mdl_STdC/driver
+	url = https://github.com/embalbe/lis2mdl-c
+[submodule "lis331dlh_STdC/driver"]
+	path = lis331dlh_STdC/driver
+	url = https://github.com/embalbe/lis331dlh-c
+[submodule "lis3de_STdC/driver"]
+	path = lis3de_STdC/driver
+	url = https://github.com/embalbe/lis3de-c
+[submodule "lis3dhh_STdC/driver"]
+	path = lis3dhh_STdC/driver
+	url = https://github.com/embalbe/lis3dhh-c
+[submodule "lis3dh_STdC/driver"]
+	path = lis3dh_STdC/driver
+	url = https://github.com/embalbe/lis3dh-c
+[submodule "lis3dsh_STdC/driver"]
+	path = lis3dsh_STdC/driver
+	url = https://github.com/embalbe/lis3dsh-c
+[submodule "lis3mdl_STdC/driver"]
+	path = lis3mdl_STdC/driver
+	url = https://github.com/embalbe/lis3mdl-c
+[submodule "lps22ch_STdC/driver"]
+	path = lps22ch_STdC/driver
+	url = https://github.com/embalbe/lps22ch-c
+[submodule "lps22hb_STdC/driver"]
+	path = lps22hb_STdC/driver
+	url = https://github.com/embalbe/lps22hb-c
+[submodule "lps22hh_STdC/driver"]
+	path = lps22hh_STdC/driver
+	url = https://github.com/embalbe/lps22hh-c
+[submodule "lps25hb_STdC/driver"]
+	path = lps25hb_STdC/driver
+	url = https://github.com/embalbe/lps25hb-c
+[submodule "lps27hhtw_STdC/driver"]
+	path = lps27hhtw_STdC/driver
+	url = https://github.com/embalbe/lps27hhtw-c
+[submodule "lps27hhw_STdC/driver"]
+	path = lps27hhw_STdC/driver
+	url = https://github.com/embalbe/lps27hhw-c
+[submodule "lps33hw_STdC/driver"]
+	path = lps33hw_STdC/driver
+	url = https://github.com/embalbe/lps33hw-c
+[submodule "lps33k_STdC/driver"]
+	path = lps33k_STdC/driver
+	url = https://github.com/embalbe/lps33k-c
+[submodule "lps33w_STdC/driver"]
+	path = lps33w_STdC/driver
+	url = https://github.com/embalbe/lps33w-c
+[submodule "lsm303agr_STdC/driver"]
+	path = lsm303agr_STdC/driver
+	url = https://github.com/embalbe/lsm303agr-c
+[submodule "lsm303ah_STdC/driver"]
+	path = lsm303ah_STdC/driver
+	url = https://github.com/embalbe/lsm303ah-c
+[submodule "lsm6ds3tr_c_STdC/driver"]
+	path = lsm6ds3tr_c_STdC/driver
+	url = https://github.com/embalbe/lsm6ds3tr_c-c
+[submodule "lsm6ds3_STdC/driver"]
+	path = lsm6ds3_STdC/driver
+	url = https://github.com/embalbe/lsm6ds3-c
+[submodule "lsm6dsl_STdC/driver"]
+	path = lsm6dsl_STdC/driver
+	url = https://github.com/embalbe/lsm6dsl-c
+[submodule "lsm6dsm_STdC/driver"]
+	path = lsm6dsm_STdC/driver
+	url = https://github.com/embalbe/lsm6dsm-c
+[submodule "lsm6dso32_STdC/driver"]
+	path = lsm6dso32_STdC/driver
+	url = https://github.com/embalbe/lsm6dso32-c
+[submodule "lsm6dsox_STdC/driver"]
+	path = lsm6dsox_STdC/driver
+	url = https://github.com/embalbe/lsm6dsox-c
+[submodule "lsm6dso_STdC/driver"]
+	path = lsm6dso_STdC/driver
+	url = https://github.com/embalbe/lsm6dso-c
+[submodule "lsm6dsrx_STdC/driver"]
+	path = lsm6dsrx_STdC/driver
+	url = https://github.com/embalbe/lsm6dsrx-c
+[submodule "lsm6dsr_STdC/driver"]
+	path = lsm6dsr_STdC/driver
+	url = https://github.com/embalbe/lsm6dsr-c
+[submodule "lsm9ds1_STdC/driver"]
+	path = lsm9ds1_STdC/driver
+	url = https://github.com/embalbe/lsm9ds1-c
+[submodule "stts22h_STdC/driver"]
+	path = stts22h_STdC/driver
+	url = https://github.com/embalbe/stts22h-c
+[submodule "stts751_STdC/driver"]
+	path = stts751_STdC/driver
+	url = https://github.com/embalbe/stts751-c
+[submodule "lis25ba_STdC/driver"]
+	path = lis25ba_STdC/driver
+	url = https://github.com/embalbe/lis25ba-c
